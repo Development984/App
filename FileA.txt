@@ -2,4 +2,4 @@ THis is FileA.txt
 This is just a testing of merging in FileA
 This is added on portal
 Test
-
+This is added on Portal
