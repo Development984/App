@@ -1,2 +1,6 @@
 This is FileB.txt
+
+This is just testing of merging
+
 test
+
