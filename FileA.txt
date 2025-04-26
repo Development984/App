@@ -1,1 +1,2 @@
 THis is FileA.txt
+This is just a testing of merging in FileA

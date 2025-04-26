@@ -1,1 +1,2 @@
 this is FileC.txt
+This is a testing of merging in FileC
