@@ -1,6 +1,6 @@
 This is FileB.txt
-
+This is added from Onpremises
 This is just testing of merging
-
+This is Added from onPremises
 test
 
