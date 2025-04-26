@@ -1,6 +1,5 @@
 This is FileB.txt
 This is added on Portal
-This is added from Onpremises
 This is just testing of merging
 This is added on Portal
 test

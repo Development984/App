@@ -1,6 +1,5 @@
 THis is FileA.txt
 This is just a testing of merging in FileA
 This is added on portal
-this is added from on Premises
 Test
 This is added on Portal
