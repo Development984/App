@@ -1,5 +1,6 @@
 This is FileB.txt
 This is added on Portal
+FileB testing
 This is just testing of merging
 This is added on Portal
 test
